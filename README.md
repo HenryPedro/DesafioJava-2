@@ -7,5 +7,5 @@
 # Explicação Inicial
   - O desafio consistiu em criar uma aplicação de música, permitindo a reprodução de áudios. Os alunos deveriam modelar classes como "Áudio", "Podcasts" e "Músicas", explorando o conceito de OO (Orientação a Objetos)
    
-# Metodos utilizados
+# O que foi utilizado
 condicionais, loops, encapsulamento, getter, setter.
